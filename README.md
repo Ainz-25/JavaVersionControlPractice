@@ -1,4 +1,4 @@
-\# Documentation Practice
+# Documentation Practice
 
 
 
@@ -6,27 +6,27 @@ Aplikasi konsol Java sederhana yang dibangun untuk mendemonstrasikan praktik ver
 
 
 
-\## Fitur Utama
+## Fitur Utama
 
-\- Menampilkan pesan teks konsol sederhana menggunakan Java.
+- Menampilkan pesan teks konsol sederhana menggunakan Java.
 
-\- Terintegrasi dengan sistem kontrol versi Git dan GitHub.
-
-
-
-\## Prasyarat
-
-\- Java Development Kit (JDK) 17 atau yang lebih baru
-
-\- Git
+- Terintegrasi dengan sistem kontrol versi Git dan GitHub.
 
 
 
-\## Cara Menjalankan Program
+## Prasyarat
 
-1\. Kompilasi file Java:
+- Java Development Kit (JDK) 17 atau yang lebih baru
 
-&#x20;  ```bash
+- Git
 
-&#x20;  javac Main.java
+
+
+## Cara Menjalankan Program
+
+  Kompilasi file Java:
+
+
+
+  `javac Main.java`
 
